@@ -1,0 +1,18 @@
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    border-radius: 5px;
+}
+
+.container{
+    display: flex;
+}
+
+.order-details{
+    height: 1000px; ;
+    width: 450px;
+    background-color: yellow;
+    font-size: xx-large;
+
+}

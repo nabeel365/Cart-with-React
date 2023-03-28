@@ -1,0 +1,16 @@
+.products{
+    color: green;
+    background: wheat;
+    
+}
+
+.btn-cart{
+    background: orange;
+    width: 100%;
+    
+
+}
+
+.btn-cart:hover{
+    background-color: red;
+}
